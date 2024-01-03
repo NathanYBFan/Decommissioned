@@ -1,0 +1,11 @@
+Level Direction & layout:
+
+1. Pickup key on table at spawn
+2. In any order the player must turn off levers in:
+	a. The living commons
+	b. The control room
+	c. The equipment room
+	d. The simulation
+	e. Power room 01
+	f. Power room 02
+3. Go back to equipment room and pickup tools
